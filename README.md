@@ -86,7 +86,6 @@ OR open notebooks in Google Colab
 | Random Forest     | Baseline regression model |
 | Gradient Boosting | Improved accuracy |
 | LSTM / GRU        | Deep learning for time-series |
-| ARIMA (optional)  | Statistical forecasting |
 
 ---
 
